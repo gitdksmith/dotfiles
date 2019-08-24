@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+x"], "command": "run_macro_file", "args": {"file": "res://Packages/User/cut_line.sublime-macro"} },
+]

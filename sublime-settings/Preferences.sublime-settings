@@ -1,0 +1,46 @@
+{
+	"bold_folder_labels": true,
+	"close_windows_when_empty": false,
+	"copy_with_empty_selection": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "none",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+	],
+	"folder_exclude_patterns":
+	[
+	],
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"no_round"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"SideBarEnhancements"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "disabled",
+	"remember_full_screen": true,
+	"scroll_speed": 5.0,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"sidebar_default": true,
+	"spell_check": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true
+}
