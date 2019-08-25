@@ -9,3 +9,8 @@ if [ -f ~/.git-completion.bash ]; then
     source ~/.git-completion.bash
 fi
 
+export PATH=$PATH:~/bin:/usr/local/opt/rabbitmq/sbin
+export SERVER_CONFIG=/var/phunware_infrastructure/env.properties
+export HISTCONTROL=ignoreboth:erasedups
+export HISTTIMEFORMAT="%d/%m/%y %T "
+
